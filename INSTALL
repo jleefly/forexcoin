@@ -1,0 +1,9 @@
+Building FOREXCoin
+
+See doc/readme-qt.rst for instructions on building FOREXCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FOREXCoin.
+
+See doc/build-*.txt for instructions on building FOREXCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FOREXCoin.
